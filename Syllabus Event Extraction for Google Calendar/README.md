@@ -5,7 +5,6 @@ Currently looking to get complete support for syllabuses first before I tackle o
 ## Contributors
 * Alberto Mejia '20
 
-<<<<<<< HEAD
 python3 -m spacy download en_core_web_sm
 =======
 ## Setup
@@ -32,4 +31,3 @@ And now run python3 main.py to get the website running.
 <pre>
 	python3 main.py
 </pre>
->>>>>>> 2a7b601d516a0ebd59bb509b9321628d45b5a161
