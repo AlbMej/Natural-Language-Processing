@@ -1,0 +1,7 @@
+httplib2 
+datefinder
+spacy
+pdftotext
+flask
+werkzeug
+apiclient
