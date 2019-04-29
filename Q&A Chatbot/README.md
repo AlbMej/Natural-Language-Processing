@@ -14,12 +14,13 @@ A job posting really sparked my interest for this project, so I am trying to imp
 
 ## TODOs
 
-  * Analysis results. 
+  * Analyze results. 
   * Make own stories and questions and test model on that. 
-  * Clean up notebook
+  * Clean up notebook.
+  * Look into other notes
 
 ## Other Notes
-Some other todos to extend the model.
+Some other todos for myself to extend the model.
 
 Algo wants to build a Chatbot to allow business executive to talk to their data by asking natural English questions. They also expects their chatbot to understanding questions, and personalize the question prediction for each user according
 to its question history.
