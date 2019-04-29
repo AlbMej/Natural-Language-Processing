@@ -1,9 +1,9 @@
 # Deep Learning Question & Answers Chatbot
 
 An implementation of a Q&A Chatbot based on the following paper:
-- Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, Alexander M. Rush,
-  "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks",
-  http://arxiv.org/abs/1502.05698
+- Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus,
+  "End-To-End Memory Networks",
+  https://arxiv.org/pdf/1503.08895.pdf
 
 The chatbot can answer questions based on a "story" (one or more sentences for context). It currently returns a binary answer (yes or no). 
 
