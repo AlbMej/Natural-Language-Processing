@@ -15,7 +15,7 @@ A job posting really sparked my interest for this project, so I am trying to imp
 ## TODOs
 
   * Analysis results. 
-  * Make own stories annd questions and test model on that. 
+  * Make own stories and questions and test model on that. 
   * Clean up notebook
 
 ## Other Notes
